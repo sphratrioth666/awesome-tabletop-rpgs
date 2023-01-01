@@ -109,7 +109,6 @@ These games have unclear licensing, no licensing specified (which means you can'
 - [ParaŚwiaty](https://www.drivethrurpg.com/product/342595/ParaSwiaty) - an awesome generic supplement about parallel/alternative universes (warning, not English, [PL]!); no license specified
 - [Planar Gaming System](http://sirjoeli.freeservers.com/index.html) - an awesome roll and keep system, no license specified
 - [Risus: The Anything RPG](https://www.risusrpg.com/rules) - an extremely simple d6 based system that spawned a number of home rules; their own community license
-- [Simple Universal System](https://drive.google.com/drive/folders/1s68EFmWQOPgj_tNj9CwabqMj4i2PKHCM) - looks to be a d20 evolution; the cards are awesome; no license specified
 - [Shadowdark Core](https://www.thearcanelibrary.com/pages/shadowdark) - quickstart halfway down the page; custom license for further content;
 - [Skyrealms of Jorune](https://archive.org/details/SkyrealmsofJoruneArchive/Jorune_1) - an archived RPG system from 1985, no license specified
 - [Spiral Dice](https://www.spiraldice.com/sapio) - an awesome system using custom dice, available for free, no license specified
