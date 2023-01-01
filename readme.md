@@ -33,6 +33,7 @@ All the systems listed in this section are under open licenses, i.e. can be remi
 - [Cairn](https://cairnrpg.com/cairn-srd/) - itself a descendant of Knave and Into the Odd, it also has its own SRD (CC)
 - [Chronia](https://www.chroniarpg.com/download) - an awesome technofantasy game based on d6 pools (CC)
 - [Commonsense](https://www.drivethrurpg.com/product/359829/Commonsense-A-RolePlaying-Game-System) - an awesome solo oracle, not to mention a list of all the simple ways to achieve weird dice (CC)
+- [Cryptid Hunters](https://drive.google.com/drive/folders/1T99-QDr1IeVMgqEySy7lX4nkvuCgW8xt?usp=share_link) - 2d6 system for hunting bigfoot, other cryptids, aliens and monsters
 - [Crypts and Castles](https://cozycabin.org/cc/) - an awesome simple 2d6 based game (CC)
 - :moneybag: [Cyberrats](https://alrine.itch.io/cyberrats) - XCOM-inspired sci-fi game of alien invasions, interns who are giant rats, and the megacorps who employ them. Running on LUMEN (CC)
 - [d6 Pool](https://www.drivethrurpg.com/product/134520/D6Pool-Modern-Roleplaying?src=newest) - what it says on the tin (CC)
