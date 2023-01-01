@@ -48,7 +48,8 @@ All the systems listed in this section are under open licenses, i.e. can be remi
 - [G.A.M.E](http://www.1km1kt.net/wp-content/uploads/2011/02/GAMEv1-1.pdf) - step dice system that uses separate dice from heritage, trade, stats (alternate [link](https://boardgamegeek.com/filepage/185188/gme-system-troy-m-costisick) requires boardgamegeek login to download) (CC)
 - [GIST](https://zeruhur.itch.io/gist) - an awesome minimal 2d6 system (CC)
 - [Ghost Lines](http://www.onesevendesign.com/ghostlines/) - awesome minimal Apocalypse World/PbtA derivative (CC)
-- :moneybag: [Gratitude: A Horror Game](https://alrine.itch.io/gratitude-a-horror-game) - a mix of cosmic horror without cthulhu and body horror. Praised for its setting. A free [creator's kit](https://alrine.itch.io/gratitude-creators-kit) is also available. (CC
+- :moneybag: [Gratitude: A Horror Game](https://alrine.itch.io/gratitude-a-horror-game) - a mix of cosmic horror without cthulhu and body horror. Praised for its setting. A free [creator's kit](https://alrine.itch.io/gratitude-creators-kit) is also available. (CC)
+- [Hexagon - Unlimited](https://drive.google.com/drive/folders/1OnD2f4KMVassyooCDNe_RydNFaWltUM2?usp=share_link) - modern d20 based system for sci-fi/fantasy settings (CC)
 - [HexGen](https://www.drivethrurpg.com/product/383947/HexGen-RPG-Basic-Rules) - a modern/scifi/cyberpunk awesome system where skills range from 3d6 to 10d6 with tactical combat (CC)
 - [Heroes of Adventure](https://nameless-designer.itch.io/heroes-of-adventure) - alternative OSR with an entirely original system (CC)
 - [In the Dark of a Fallen Empire](https://jkent2585.itch.io/in-the-dark-of-a-fallen-empire) - an awesome derivative of In the Light of a Ghost Star (CC)
