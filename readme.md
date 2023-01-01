@@ -64,6 +64,7 @@ All the systems listed in this section are under open licenses, i.e. can be remi
 - [Open Core Roleplaying System](https://www.drivethrurpg.com/product/2727/Open-Core-Role-Playing-System-Classic) - an d20 system that allows swapping the d20 out for some other dice (OGL)
 - [Ops and Tactics](https://opsandtactics.blogspot.com/) - an awesome modern tactical combat system (CC)
 - [Rapido y Facil](http://www.rapidoyfacil.es/proyectos/ryf-nucleo-3-x/documents/) - an awesome d6 roll and keep system (keep middle) (warning, it's not English, [ES]!) (CC)
+- [Reality Engine](https://drive.google.com/drive/folders/1mUz6xIvn1d4gZIWbhDbpkllhURSgJfJP?usp=share_link) - a simple but versatile, universal system for realistic settings, sci-fi & fantasy (no fixed classes - a fusion of d20 with d6, d8, d10, d12 with linear modifiers development) (CC)
 - [SAGA](https://yggdrasildistro.files.wordpress.com/2018/12/Saga-Core-Rulebook-6th-Edition.pdf) - a dice pool based universal system (CC)
 - [Sad Press Collection](https://sadpress.itch.io/sad-press-srd-collection) - seven little hackable games (CC)
 - [Silver Wheels](https://drive.google.com/drive/folders/13cHBWwauE9u5yfSHttWE_lzFM6hSfzGl?fbclid=IwAR2iab6orEuvvdQGraQYzHGZpQ-Fa-C_mcGk3-NSsbhMqdvE9PgHTDjrDnk) - a d10 based car racing RPG (CC)
