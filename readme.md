@@ -51,6 +51,7 @@ All the systems listed in this section are under open licenses, i.e. can be remi
 - :moneybag: [Gratitude: A Horror Game](https://alrine.itch.io/gratitude-a-horror-game) - a mix of cosmic horror without cthulhu and body horror. Praised for its setting. A free [creator's kit](https://alrine.itch.io/gratitude-creators-kit) is also available. (CC
 - [HexGen](https://www.drivethrurpg.com/product/383947/HexGen-RPG-Basic-Rules) - a modern/scifi/cyberpunk awesome system where skills range from 3d6 to 10d6 with tactical combat (CC)
 - [Heroes of Adventure](https://nameless-designer.itch.io/heroes-of-adventure) - alternative OSR with an entirely original system (CC)
+- [High Strings](https://drive.google.com/drive/folders/1ZXV1x9hHXZ-HRLuc5prdvsH03swIuSyz?usp=share_link) - musician career or a musical academy student life mechanics with funny fame bonuses and fame eccentric quirks (CC)
 - [In the Dark of a Fallen Empire](https://jkent2585.itch.io/in-the-dark-of-a-fallen-empire) - an awesome derivative of In the Light of a Ghost Star (CC)
 - [Ironsworn](https://www.ironswornrpg.com/) - an awesome solo system (CC)
 - [JAGS](https://www.jagsrpg.com/) - (not) Just Another Gaming System (has a FDL licensed version according to the website)
